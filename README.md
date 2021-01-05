@@ -27,4 +27,6 @@
 Программа является свободной и выпущена под лицензией GNU GPL версии 2. 
 По умолчанию используется TCP порт 9418
 ```
-<script src="https://localhost/neuro.sdk.min.js"></script>
+```
+ <script src="https://localhost/neuro.sdk.min.js"></script>
+```
